@@ -10,6 +10,8 @@ Me v PMDD Logo & Icon
 | PMDD Text        | `#EC4972`  | `#333333`  | `#FFFFFF`  |
 | Slogan & TM Text | `#999999`  | `#666666`  | `#999999`  |
 
+Font: https://fonts.google.com/specimen/Ubuntu
+
 
 Logo Samples:
 ---
@@ -24,6 +26,11 @@ Logo ( no slogan ) Samples:
 
 
 Icon Samples:
+---
+
+![icon samples](icon/sample.png "icon samples")
+
+Icon Thick Samples ( better for smaller icons ):
 ---
 
 ![icon samples](icon/sample.png "icon samples")
