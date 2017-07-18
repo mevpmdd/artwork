@@ -33,4 +33,4 @@ Icon Samples:
 Icon Thick Samples ( better for smaller icons ):
 ---
 
-![icon samples](icon/sample.png "icon samples")
+![icon samples](icon-thick/sample.png "icon samples")
